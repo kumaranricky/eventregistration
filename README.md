@@ -364,4 +364,4 @@ To create a UX design and develop a web application for event registration.
 ![output](./static/img/o4.png)
 
 ## RESULT:
-\\
+Thus, a UX design and develop a web application for event registration has been done.
