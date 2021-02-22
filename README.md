@@ -6,9 +6,11 @@ To create a UX design and develop a web application for event registration.
 
 
 ## DESIGN SCREENS:
+![output](./static/img/u1.png)
 
 
 ## WIREFRAME:
+![output](./static/img/u2.png)
 
 
 ## PROTOTYPE:
@@ -358,7 +360,7 @@ To create a UX design and develop a web application for event registration.
 ![output](./static/img/o2.png)
 
 ![output](./static/img/o3.png)
-
+,, 
 ![output](./static/img/o4.png)
 
 ## RESULT:
